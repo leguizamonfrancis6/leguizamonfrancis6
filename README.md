@@ -7,7 +7,7 @@ I'm an IT technician and I'm currently studying for an Associate Degree in Infor
 These days I build websites for small businesses and independent professionals in Santa Fe under the name [Quantum Dev](https://www.instagram.com/developerquantum/). Every site below is live, on its own domain, and used by a real client.
 I'm also developing a training process management software project.
 
-I'm looking for my first role as a developer or in IT support, where I can keep learning from a team and take on real work from day one.
+
 
 📫 [leguizamonfrancis6@gmail.com](mailto:leguizamonfrancis6@gmail.com) · [LinkedIn](https://www.linkedin.com/in/francis-leguizam%C3%B3n-it)
 
