@@ -4,8 +4,7 @@
 
 I'm an IT technician and I'm currently studying for an Associate Degree in Information Technology at UTN (Universidad Tecnológica Nacional). Before getting into tech full time, I spent more than ten years running my own businesses, so I'm used to managing people, dealing with customers and solving problems when there's no one else to hand them to.
 
-These days I build websites for small businesses and independent professionals in Santa Fe under the name [Quantum Dev](https://www.instagram.com/developerquantum/). Every site below is live, on its own domain, and used by a real client.
-I'm also building a full-stack management system for a training center, written in TypeScript.
+I currently work as a freelancer, building custom software for businesses and professionals. I work closely with each client to understand what they need and build a solution to their problems, from company websites to a TypeScript system for managing the training processes of a training center.
 
 📫 [leguizamonfrancis6@gmail.com](mailto:leguizamonfrancis6@gmail.com) · [LinkedIn](https://www.linkedin.com/in/francis-leguizam%C3%B3n-it)
 
