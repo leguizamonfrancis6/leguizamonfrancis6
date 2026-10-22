@@ -24,9 +24,10 @@ The four websites are plain HTML, CSS and JavaScript with no frameworks, deploye
 ## Skills
 
 - **Languages:** JavaScript, TypeScript, Python, Java, C#
-- **Frontend:** HTML, CSS, React
-- **Backend:** Node.js, Express, Prisma, Spring Boot
-- **Tools:** Git, Maven, GitHub Pages
+- **Frontend:** HTML, CSS, React, React Router, Vite
+- **Backend:** Node.js, Express, REST APIs, Prisma, Zod, Spring Boot, session-based authentication (bcrypt), PDF generation (pdf-lib)
+- **Tools:** Git, npm, Maven, GitHub Pages
+- **Testing:** unit tests with node:test
 - **Databases & data formats:** PostgreSQL, MySQL, JSON, XML
 - **Operating systems:** Windows, Linux (Ubuntu)
 - **Infrastructure & support:** hardware maintenance, network administration, cybersecurity, cloud computing
