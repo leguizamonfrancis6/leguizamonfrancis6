@@ -30,7 +30,7 @@ The four websites are plain HTML, CSS and JavaScript with no frameworks, deploye
 - **Testing:** unit tests with node:test
 - **Databases & data formats:** PostgreSQL, MySQL, JSON, XML
 - **Operating systems:** Windows, Linux (Ubuntu)
-- **Infrastructure & support:** hardware maintenance, network administration, cybersecurity, cloud computing
+- **Infrastructure & support:** hardware maintenance, network administration, cloud computing
 - **Other:** UX, Scrum, Kanban
 
 ## Experience
