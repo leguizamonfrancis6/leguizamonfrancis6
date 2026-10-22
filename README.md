@@ -5,6 +5,7 @@
 I'm an IT technician and I'm currently studying for an Associate Degree in Information Technology at UTN (Universidad Tecnológica Nacional). Before getting into tech full time, I spent more than ten years running my own businesses, so I'm used to managing people, dealing with customers and solving problems when there's no one else to hand them to.
 
 These days I build websites for small businesses and independent professionals in Santa Fe under the name [Quantum Dev](https://www.instagram.com/developerquantum/). Every site below is live, on its own domain, and used by a real client.
+I'm also developing a training process management software project.
 
 I'm looking for my first role as a developer or in IT support, where I can keep learning from a team and take on real work from day one.
 
