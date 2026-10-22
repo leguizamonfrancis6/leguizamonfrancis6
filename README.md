@@ -25,8 +25,9 @@ All four are plain HTML, CSS and JavaScript with no frameworks, deployed on GitH
 ## Skills
 
 - **Languages:** JavaScript, Python, Java, C#
-- **Web:** HTML, CSS, JavaScript
-- **Frameworks & tools:** Spring Boot, Maven, Git, GitHub Pages
+- **Frontend:** HTML, CSS, React
+- **Backend:** Node.js, Spring Boot
+- **Tools:** Git, Maven, GitHub Pages
 - **Databases & data formats:** MySQL, JSON, XML
 - **Operating systems:** Windows, Linux (Ubuntu)
 - **Infrastructure & support:** hardware maintenance, network administration, cybersecurity, cloud computing
